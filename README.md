@@ -15,7 +15,7 @@
 </ul>
 </br>
 <p>O usuário utiliza um login e senha cadastrados para gerar um token (JWT) e acessar qualquer funcionalidade da API.
-É possível cadastrar, atualizar, deletar e visualizar os pacientes, médicos e consultas</p>
+É possível cadastrar, atualizar, deletar e visualizar os pacientes e médicos e cadastrar, consultar e deletar consultas.</p>
 
 <h3>Tecnologias</h3>
 <ul>
